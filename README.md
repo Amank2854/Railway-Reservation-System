@@ -6,4 +6,4 @@ HOW TO USE\
     - Import and use the required procedures in the 'App.java' file.\
     - Run the command 'javac App.java' follwed by the 'java App' command to compile and run the required procedures.\
     - Copy all the reservation input files in the 'Railway Reservation System/data/input-reservation' directory.\
-    - Run the command 'javac Client.java' followed by the 'java Client' command to compile and run the client procedures for ticket booking.\
+    - Run the command 'javac Client.java' followed by the 'java Client' command to compile and run the client procedures for ticket booking.
