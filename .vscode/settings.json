@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "java/lib/c3p0-0.9.5.5.jar",
+        "java/lib/c3p0-oracle-thin-extras-0.9.5.5.jar",
+        "java/lib/mchange-commons-java-0.2.19.jar",
+        "java/lib/postgresql-42.5.0.jar"
+    ]
+}
