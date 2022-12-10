@@ -1,3 +1,8 @@
+This project aims at developing a railway reservation system. It implements a multi-user system where simultaneous access to the booking function by two or more users agents is possible. 
+
+
+
+
 HOW TO USE\
     - Open up the terminal.\
     - Navigate to the directory '/Railway Reservation System/java/src'.\
